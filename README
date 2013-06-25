@@ -1,0 +1,29 @@
+Mini-éditeur
+============
+
+Voici un mini-éditeur de texte que moi et mon binôme avons créé en 2011
+dans le cadre de nos études à l'ISTIC Rennes. L'exercice portait sur
+l'analyse/conception d'un projet complet avec MagicDraw, puis son
+développement en Java avec Eclipse. J'ai joint les diagrammes en png
+pour plus de commodité.
+
+Le projet applique les patrons de conception Command, Observer et
+Memento.
+
+Il y a 3 versions. Les 2e et 3e s'appuient sur la 1re.
+
+* La version 1 comporte une zone de texte dans laquelle on peut taper,
+supprimer et sélectionner du texte au clavier, ainsi que des boutons
+permettant d'exécuter les actions couper, copier et coller.
+
+* La version 2 ajoute une fonctionnalité de macro permettant
+d'enregistrer une séquence de commandes et de la rejouer.
+
+* La version 3 ajoute à la 1re la possiblité de défaire / refaire les
+actions.
+
+Malgré son INCROYABLE beauté et ses ÉPATANTES fonctionnalités, ceci
+reste un projet pédagogique et pourrait sembler basique à celui qui ne
+sait pas apprécier les bonnes choses. Par exemple, les raccourcis
+clavier ne sont pas supportés. Que voulez-vous, le monde n'est pas
+parfait…
